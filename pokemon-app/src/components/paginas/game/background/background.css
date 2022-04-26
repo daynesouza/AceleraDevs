@@ -1,4 +1,6 @@
 .planoDeFundo{
     width: 1280px;
     height: 833px;
+    margin: 7.5vh auto 0 auto;
+    display: block;
 }

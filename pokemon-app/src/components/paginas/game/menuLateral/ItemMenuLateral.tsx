@@ -6,7 +6,7 @@ interface Props{
 }
 
 export default function ArrayItemMenu ({capturado}: Props){
-    return(
-
+    return (
+        <p>Item menu lateral</p>
     );
 }

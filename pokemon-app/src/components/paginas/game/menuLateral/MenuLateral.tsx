@@ -3,6 +3,6 @@ import Icapturado from '../../../../types/capturado'
 
 export default function (){
     return (
-        
+        <p>menu lateral</p>
     );
 }
