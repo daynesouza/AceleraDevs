@@ -1,0 +1,14 @@
+.MenuLateral{   
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    width: 10%;
+}
+.MenuLateral ul{
+    list-style-type: none;
+}
+.MenuLateral__icone{
+    width: 70px;
+    height: 70px;
+}
