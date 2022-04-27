@@ -9,8 +9,8 @@ export default function (){
 
     const [menuLateral, setMenuLateral] = useState([
         {capturado: true, id: uuidv4()},
-        {capturado: false, id: uuidv4()},
-        {capturado: false, id: uuidv4()},
+        {capturado: true, id: uuidv4()},
+        {capturado: true, id: uuidv4()},
         {capturado: false, id: uuidv4()},
         {capturado: false, id: uuidv4()},
         {capturado: false, id: uuidv4()},
